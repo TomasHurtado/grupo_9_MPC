@@ -18,14 +18,15 @@ https://www.fullh4rd.com.ar/ -> De esta web nos gusta los banners y la gamma de 
 
 https://www.coppel.com.ar/ -> No te satura la vista tiene muy bien acomodados las imagenes.
 
-## Trello
+## Tablero de trabajo:
 https://trello.com/digitalhouse166/home
 
 ## Integrantes:
-Canteros Florencia:Me estoy adentrando en el mundo de la programacion, soy una persona muy curiosa dispuesta a aprender, me gusta viajar y ver anime. 🗻
 
-Hurtado Tomás:Soy estudiante de programacion con conocimiento en c#,c,c++ y js, algo de base de datos y unity2D.Me gusta pasar mis tiempos libres jugando o ayudando a mis compañeros en lo que neseciten. 🥇
+🗻 Canteros Florencia:Me estoy adentrando en el mundo de la programacion, soy una persona muy curiosa dispuesta a aprender, me gusta viajar y ver anime. 🗻
 
-Lopéz Zoé:Me interesa estudiar negocios digitales y programacion. 🔮
+🥇 Hurtado Tomás:Soy estudiante de programacion con conocimiento en c#,c,c++ y js, algo de base de datos y unity2D.Me gusta pasar mis tiempos libres jugando o ayudando a mis compañeros en lo que neseciten. 🥇
 
-Tarifa Daniela:Me gusta el diseño grafico, me interesa aprender como hacer una pagina web tanto en backend como en frontend. 🖋️
+🌼 Lopéz Zoé:Me interesa estudiar negocios digitales y programacion. 🌼
+
+🖋️ Tarifa Daniela:Me gusta el diseño grafico, me interesa aprender como hacer una pagina web tanto en backend como en frontend. 🖋️
